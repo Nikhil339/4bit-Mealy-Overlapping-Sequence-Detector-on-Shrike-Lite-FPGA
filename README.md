@@ -409,6 +409,7 @@ Flash the bitstream, run `send_bits.py`, and send these strings one after anothe
 - [Vicharak Shrike-Lite](https://github.com/vicharak-in/shrike) board, documentation and MicroPython `shrike` library.
 - Renesas **SLG47910 ForgeFPGA** and **Go Configure Software Hub**.
 - `ffpga/lib/i2c_slave.v` and `ffpga/sim/i2c_slave_tb.vt` are © 2025 Renesas Electronics (ForgeFPGA Workshop v6.50 module library), used unchanged under the permission notice at the top of each file.
+- Help from LLMs was taken to build certain parts of this project.
 
 ## License
 
